@@ -29,6 +29,10 @@ This project explores a green logistics concept that uses recycled materials to 
 * Problem Solving
 * Project Development
 
+## Project Preview
+
+![Green Supply Chain Project](YOUR-IMAGE-FILENAME.png)
+
 ## Author
 
 **Jumanah AL Jafshar**
