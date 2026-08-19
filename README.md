@@ -32,11 +32,15 @@ This project explores how sustainable practices can be integrated into supply ch
 
 ## Project Preview
 
-![Green Supply Chain Project](YOUR-IMAGE-FILENAME.png)
+![Project Overview](./نبذة.jpeg)
+
+![Project Activity](./عن%20الفعالية.jpeg)
 
 ## Recognition
 
-This project was recognized with an award as part of the associated university activity.
+This project received **1st Place** recognition as part of the associated university activity.
+
+![Award Recognition](./الجائزة.jpeg)
 
 ## Author
 
